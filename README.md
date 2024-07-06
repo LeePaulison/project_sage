@@ -1,2 +1,2 @@
-# project_sage
+# Project Sage
 Project Sage is a Project Manager.
